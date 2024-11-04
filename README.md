@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Cursando Ciência da Computação pela Unoeste - FIPP</p>
+<p align="left">💻Cursando Ciência da Computação pela Unoeste - FIPP</p>
 
 ###
 
