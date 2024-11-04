@@ -43,7 +43,3 @@
 <p align="left"></p>
 
 ###
-
-<img src="https://github.com/LukeraGod/LukeraGod/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-
-###
